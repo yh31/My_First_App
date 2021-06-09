@@ -31,13 +31,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <EditText
-        android:id="@+id/editTextTime"
-        android:layout_width="312dp"
-        android:layout_height="198dp"
-        android:ems="10"
-        android:inputType="time"
-        tools:layout_editor_absoluteX="49dp"
-        tools:layout_editor_absoluteY="29dp" />
-
 </android.support.constraint.ConstraintLayout>
